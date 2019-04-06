@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-antnest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/thlz998/eslint-config-antnest.git",
   "author": "yinjianan <thlz998@gmail.com>",

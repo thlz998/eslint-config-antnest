@@ -2,7 +2,7 @@
   "name": "eslint-config-antnest",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/thlz998/eslint-config-ibfpig.git",
+  "repository": "https://github.com/thlz998/eslint-config-antnest.git",
   "author": "yinjianan <thlz998@gmail.com>",
   "license": "MIT",
   "scripts": {
